@@ -1,4 +1,7 @@
 # Test-Task-Emfy
+
+ACCOUNT : https://temple23062gmailcom.amocrm.ru/
+
 **ЗАДАНИЕ :**
 Подготовка:
 Зарегистрировать аккаунт в https://www.amocrm.ru/ Зайти в раздел амоМаркет (/amo-market/).Нажать на 3 точки в правом верхнем углу - создать "Внешнюю интеграцию" для доступа к amoCRM по API. Документация по созданию интеграций, методам API и получению ключей oAuth - https://www.amocrm.ru/developers/
@@ -40,4 +43,6 @@
     npm run dev
 
 3)Далее нажать на ссылку.
+
+
     
